@@ -1,5 +1,9 @@
 # Horoscope Readings Mobile Application
 
+<img width="414" alt="Ekran Resmi 2024-08-24 18 32 26" src="https://github.com/user-attachments/assets/5a472345-336e-4867-a46e-29414ea1062f">
+<img width="414" alt="Ekran Resmi 2024-08-24 18 31 49" src="https://github.com/user-attachments/assets/18d672c6-d008-496e-9fba-662c5fb23422">
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
