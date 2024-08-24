@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Koç",
+    "value": "koc",
+    "image": "aries",
+    "date": "21 Mart - 20 Nisan"
+  },
+  {
+    "name": "Boğa",
+    "value": "boga",
+    "image": "taurus",
+    "date": "21 Nisan - 20 Mayıs"
+  },
+  {
+    "name": "İkizler",
+    "value": "ikizler",
+    "image": "gemini",
+    "date": "21 Mayıs - 21 Haziran"
+  },
+  {
+    "name": "Yengeç",
+    "value": "yengec",
+    "image": "cancer",
+    "date": "22 Haziran - 22 Temmuz"
+  },
+  {
+    "name": "Aslan",
+    "value": "aslan",
+    "image": "leo",
+    "date": "23 Temmuz - 22 Ağustos"
+  },
+  {
+    "name": "Başak",
+    "value": "basak",
+    "image": "virgo",
+    "date": "23 Ağustos - 22 Eylül"
+  },
+  {
+    "name": "Terazi",
+    "value": "terazi",
+    "image": "libra",
+    "date": "23 Eylül - 22 Ekim"
+  },
+  {
+    "name": "Akrep",
+    "value": "akrep",
+    "image": "scorpio",
+    "date": "23 Ekim - 21 Kasım"
+  },
+  {
+    "name": "Yay",
+    "value": "yay",
+    "image": "sagittarius",
+    "date": "22 Kasım - 21 Aralık"
+  },
+  {
+    "name": "Oğlak",
+    "value": "oglak",
+    "image": "capricorn",
+    "date": "22 Aralık - 19 Ocak"
+  },
+  {
+    "name": "Kova",
+    "value": "kova",
+    "image": "aquarius",
+    "date": "20 Ocak - 18 Şubat"
+  },
+  {
+    "name": "Balık",
+    "value": "balik",
+    "image": "pisces",
+    "date": "19 Şubat - 20 Mart"
+  }
+]
